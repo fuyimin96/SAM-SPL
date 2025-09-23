@@ -80,7 +80,7 @@ python testing.py --dataset NUDT-SIRST --image_size 256 --weights ./checkpoints/
 ## Citation
 If you find our work and this repository useful. Please consider giving a star :star: and citation.
 ```bibtex
-@article{fu2025samspl,
+@article{fu2025unified,
   title={A Unified SAM-Guided Self-Prompt Learning Framework for Infrared Small Target Detection},
   author={Fu, Yimin and Lyu, Jialin and Ma, Peiyuan and Liu, Zhunga and Ng, Michael K},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
