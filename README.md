@@ -85,6 +85,8 @@ If you find our work and this repository useful. Please consider giving a star :
   author={Fu, Yimin and Lyu, Jialin and Ma, Peiyuan and Liu, Zhunga and Ng, Michael K},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2025},
+  volume={63},
+  pages={1-14},
   doi={10.1109/TGRS.2025.3610919},
   publisher={IEEE}
 }
