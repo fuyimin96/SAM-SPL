@@ -67,7 +67,7 @@ python testing.py --dataset NUDT-SIRST --image_size 256 --weights ./checkpoints/
 
 | Dataset | IoU (%) | F1 (%) | Pd (%) | Fa (10^-6) | Weight |
 |--------|---------|--------|--------|------------|--------|
-| NUDT-SIRST | **94.63** | **97.24** | **99.47** | **2.55** | [Weight](https://pan.baidu.com/s/1lh6XpAUVtgFbeu-kRBssRQ?pwd=a7y) |
+| NUDT-SIRST | **94.63** | **97.24** | **99.47** | **2.55** | [Weight](https://pan.baidu.com/s/1_Uq6EMcCvOZ9MlV4n7ZvQQ?pwd=tzuh) |
 | IRSTD-1k | **74.09** | **85.11** | **92.59** | **9.28** | [Weight](https://pan.baidu.com/s/1k-EospCpbJIgUph9LiSHXQ?pwd=ckqs) |
 | IRSTDID-SKY | **73.40** | **84.66** | **98.72** | **0.97** | [Weight](https://pan.baidu.com/s/1LqUA6ekPy1bV-HANtV3T3w?pwd=geic) |
 | NUDT-sea | **60.93** | **75.72** | **82.33** | **14.92** | [Weight](https://pan.baidu.com/s/1cinhAaCKALtX6b-SLYWy9w?pwd=5j6g) |
