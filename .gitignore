@@ -177,6 +177,8 @@ uv.lock
 dataset/*
 !dataset/image_floder.py
 !dataset/set_configs
+!dataset/IRSTD-1k/Target_image/*
+!dataset/IRSTD-1k/Target_mask/*
 
 # checkpoints
 checkpoints/*
